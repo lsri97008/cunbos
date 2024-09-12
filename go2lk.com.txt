@@ -17,7 +17,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png" />
   <link rel="canonical" href="https://go2lk.com/" />
-  <link rel="amphtml" href="https://amp-saya.com/sepuh/https://go2lk.com/" />
+  <link rel="amphtml" href="https://amp-saya.com/sepuh/go2lk.com" />
   <!-- start preload -->
   <link rel="preload" href="https://go2lk.com/security/acces/log-acces/login-aces/alert/logo.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
