@@ -1,0 +1,4 @@
+<?php
+//* Permanently redirect page
+header("Location: https://3dgem.in/templates/system/3dgem.html",TRUE,301);
+?>
