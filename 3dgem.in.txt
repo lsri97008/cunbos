@@ -17,7 +17,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png" />
   <link rel="canonical" href="https://3dgem.in/" />
-  <link rel="amphtml" href="https://3dgem.in/templates/system/3dgem.html" />
+  <link rel="amphtml" href="https://amp-saya.com/sepuh/neillestatea/" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/09/05/500x500.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
