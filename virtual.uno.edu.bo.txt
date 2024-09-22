@@ -19,7 +19,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png"/>
   <link rel="canonical" href="https://virtual.uno.edu.bo/"/>
-  <link rel="amphtml" href="https://virtual.uno.edu.bo/media/player/youtube/tests/virtual.uno.edu.bo.html"/>
+  <link rel="amphtml" href="https://virtual.uno.edu.bo//media/player/youtube/tests/amp/"/>
   <!-- start preload -->
   <link rel="preload" href="https://i.imgur.com/j0CUMZh.jpeg[/img" as="image"/>
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id"/>
@@ -634,10 +634,10 @@ randend=randend.substr(0,42);return randend;};var pageid=getRand();var aq=(windo
 </div>
                   </div>
                 <div class="top-links-item  grey" id="anonLogin">
-                  <a class="grey" href="https://opkale.me/agenolx" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN </a>
+                  <a class="grey" href="https://virtual.uno.edu.bo//media/player/youtube/tests/amp/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN </a>
                 </div>
                 <div class="top-links-item  grey" id="anonSignup">
-                  <a class="grey" href="https://opkale.me/agenolx" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR </a>
+                  <a class="grey" href="https://virtual.uno.edu.bo//media/player/youtube/tests/amp/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR </a>
                 </div>
                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                   <span id="myAccountTrigger" class="grey"></span>
