@@ -7,6 +7,7 @@
   <title>AGENOLX : Login Bandar Judi Online & Situs Slot Gacor Terpercaya</title>
   <meta name="description" content="AGENOLX merupakan bandar judi online terpercaya penyedia akses login tercepat untuk semua permainan slot online dan juga terkenal sebagai situs slot gacor dengan peluang kemenangan tinggi." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="google-site-verification" content="g06hF-3JgYeHKNQaLzdBt10BpqJxW8y5fgxq6CMliPQ" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
