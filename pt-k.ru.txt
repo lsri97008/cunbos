@@ -6,6 +6,7 @@
   <title>AGENOLX : Situs Judi Taruhan Bola Online Terpercaya Dengan Prediksi Mix Parlay Akurat</title>
   <meta name="description" content="AGENOLX merupakan sebuah situs judi online yang telah mendapat reputasi sebagai situs bola terpercaya dengan prediksi mix parlay yang akurat menjadi tempat pilihan terbaik untuk bermain taruhan bola online." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="google-site-verification" content="2Bew8SYXjJMlHmL_8FSFa8Qp6vNft4jrTieh5pxNFW8" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
