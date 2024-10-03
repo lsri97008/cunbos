@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
@@ -10,6 +9,7 @@
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="https://www.vapiz.fr/" />
+  <meta name="google-site-verification" content="HQYjk8FSgW3XFHNKzGII0YWTFbPskdu1MjAqR1gpBsw" />
   <meta name="og:title" content="AGENOLX : Daftar Bandar Slot Gacor Dengan Bocoran Rtp Live Slot 88 Terbaru Mudah Maxwin" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="AGENOLX merupakan daftar bandar slot gacor dengan bocoran rtp live slot 88 yang terkenal dengan permainan slot online gacor dan bocoran pola rtp slot88 dijamin lebih mudah maxwin." />
