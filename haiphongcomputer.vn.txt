@@ -5,6 +5,7 @@
   <meta charset="utf-8" />
   <title>AGENOLX : Situs Resmi Taruhan Bola Online & Agen bola sbobet terpercaya</title>
   <meta name="description" content="AGENOLX merupakan sebuah situs resmi bola online dan agen bola sbobet yang sudah mendapat reputasi sebagai situs taruhan bola online terpercaya tahun ini." />
+  <meta name="google-site-verification" content="HgSaPuZ-7oPreHCWOVBsgQmlIOYjaL7h8rjkTULBkPw" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
