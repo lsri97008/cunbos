@@ -6,6 +6,7 @@
   <title>AGENOLX : Daftar Situs Judi Bola Online Terpercaya & Agen Sbobet Terbesar No1 Di Indonesia</title>
   <meta name="description" content="AGENOLX merupakan salah satu daftar situs judi bola online terpercaya dan telah mendapat reputasi sebagai agen sbobet terbesar no1 di Indonesia tempat terbaik untuk taruhan bola sbobet online tahun ini." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="google-site-verification" content="CmzTr6FzsYKSHOWbgRGGwtZ5pT2PMP63DgXv9-E-SjU" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="12anj4u" />
   <meta name="robots" content="index, follow" />
