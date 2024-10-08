@@ -13,10 +13,11 @@
     <meta name="og:url" content="https://www.ewkc-pv.nl/" />
     <meta name="og:title" content="AGENOLX : Bandar Slot Online Pusat Slot Gacor Mudah Maxwin Hari ini" />
     <meta name="og:type" content="product" />
+    <meta name="google-site-verification" content="97vrR7XbSmUpFEuyVmZuowFHo7AyGOkoyFHnXmGThIA" />
     <meta name="og:description" content="AGENOLX merupakan bandar slot online pusat slot gacor yang menawarkan permainan slot online yang memiliki tingkat kemenangan tinggi gacor hari ini." />
     <meta name="og:image" content="https://www.ewkc-pv.nl//images/phocagallery/avatars/an.jpg" />
-    <link rel="shortcut icon" href="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/agenolx/favicon.webp" />
-    <link rel="icon" sizes="32x32" type="image/png" href="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/agenolx/favicon.webp" />
+    <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png" />
+    <link rel="icon" sizes="32x32" type="image/png" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="canonical" href="https://www.ewkc-pv.nl/" />
     <link rel="amphtml" href="https://amp-saya.com/sepuh/ewkc-pv.nl/" />
