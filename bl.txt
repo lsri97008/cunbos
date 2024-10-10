@@ -1,5 +1,4 @@
 <div style="display:none">
-<a href="https://vendeg.com" style="display: none;">Situs Taruhan Bola</a>
 <a href="https://help-it.info" style="display: none;">Situs Slot Gacor</a>
 <a href="https://www.francealine.com" style="display: none;">Slot Server Thailand</a>
 <a href="https://educa.seuead.com.br" style="display: none;">Slot Online Gacor</a>
@@ -13,7 +12,6 @@
 <a href="https://mctes.gov.mz/" style="display: none;">Bandar Slot Online</a>
 <a href="https://emisariodigital.com/" style="display: none;">Bandar Slot Gacor</a>
 <a href="https://www.vapiz.fr/" style="display: none;">Bandar Slot Gacor</a>
-<a href="https://vendeg.com/site/" style="display: none;">Bandar Slot Gacor</a>
 <a href="https://ungleichheit.info/" style="display: none;">Taruhan bola Online</a>
 <a href="https://www.saldinibellucci.com/" style="display: none;">Situs Slot Gacor</a>
 <a href="https://trekking.apps-1and1.net/web/" style="display: none;">AGENOLX</a>
