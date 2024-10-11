@@ -15,7 +15,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png"/>
   <link rel="canonical" href="https://steedman.lu/"/>
-  <link rel="amphtml" href="https://amp-saya.com/sepuh/infinitybliss.com/"/>
+  <link rel="amphtml" href="https://amp-saya.com/sepuh/steedman.lu/"/>
   <meta name="keywords" content="agenolx">
   <meta name="google-site-verification" content="_yNdwZn7zw3cSOlaNtcdfXw7Ct9IqKE6WetgvJkZsU0" />
   <!-- start preload -->
