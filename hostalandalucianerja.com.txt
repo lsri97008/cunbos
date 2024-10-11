@@ -17,7 +17,7 @@
   <meta name="og:image" content="https://goodimg.io/images/2024/10/09/agenolx.png" />
   <meta name="google-site-verification" content="0snYYUa2qHp1jW8WSGjvIA878druH34euW-XOg871Tk" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://plcl.me/images/rWhHC.png" />
+  <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/26/AFGv.-7.png" />
   <link rel="canonical" href="https://hostalandalucianerja.com/" />
   <link rel="amphtml" href="https://pub-ab9d58031f794d2e9f5d9f2aafd8a2d7.r2.dev/hostalandalucianerja.com.html" />
   <!-- start preload -->
