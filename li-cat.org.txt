@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <title>AGENOLX : Bandar Slot Terpercaya & Situs Judi Online Slot88 Gacor Terbaik</title>
     <meta name="description" content="AGENOLX bandar slot terpercaya pilihan terbaik untuk bermain slot online dengan permainan slot88 yang gacor dan sudah mendapat reputasi sebagai situs judi online terbaik tahun ini." />
+    <meta name="google-site-verification" content="7O5iALlFwknCHJwKW8iUYGOTAFGvI5mIY7YV_tzVEGg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
     <meta name="data-spm" content="a2o4j" />
