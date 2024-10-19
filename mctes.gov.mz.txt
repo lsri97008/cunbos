@@ -17,7 +17,7 @@
       name="aplus-auto-exp"
       content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'
     />
-    <meta name="google-site-verification" content="pVXtzwVHtfgPYoePU04NOwCLFpy7NNR5r_c9Q4dwcmM" />
+    <meta name="google-site-verification" content="sdk8YXE4XsR2vNQyzIZZVgqRaRImfjJ9-JhGIfdG5O4" />
     <meta name="data-spm" content="AGEN SLOT" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
