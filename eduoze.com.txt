@@ -5804,7 +5804,7 @@
                     <div class="seller-container" data-spm="seller">
                       <div class="seller-name">
                         <div class="seller-name__wrapper">
-                          <div class="seller-name__title">@OMTOGEL</div>
+                          <div class="seller-name__title">AGENIKX</div>
                           <div class="seller-name__detail" data-spm="seller">
                             <a
                               class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"
