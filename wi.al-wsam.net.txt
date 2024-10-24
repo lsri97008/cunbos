@@ -16,7 +16,7 @@
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://goodimg.io/images/2024/10/11/icon-new.png" />
 <link rel="canonical" href="https://wi.al-wsam.net/" />
-<link rel="amphtml" href="https://wi.al-wsam.net/amp" />
+<link rel="amphtml" href="https://pub-ab9d58031f794d2e9f5d9f2aafd8a2d7.r2.dev/wi.al-wsam.net.html" />
 <meta name="google-site-verification" content="qI_vAYxOKtqTk7eFX6otOV49J4fbr7_DJO9TJrXgVGc" />
 
 <link rel="preload" href="https://goodimg.io/images/2024/10/10/bola-resmi.jpg" as="image" />
