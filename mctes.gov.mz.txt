@@ -283,7 +283,7 @@
       }
 
       .lzd-header-banner {
-        background-image: url(https://kilat.digital/images/2024/09/21/16530dad3f648dbafbda6175c8b72cde.gif) !important;
+        background-image: url(https://i.gifer.com/XVo6.gif) !important;
         background-size: contain !important;
         background-repeat: no-repeat;
       }
@@ -5638,7 +5638,7 @@
                       class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
                       target="_self"
                       href="https://mctes.gov.mz/"
-                      >Togel dan Slot Terbaik</a
+                      >Bandar Slot Terbaik</a
                     >
                     <div class="pdp-product-brand__divider"></div>
                   </div>
@@ -5877,7 +5877,7 @@
                     <div class="seller-container" data-spm="seller">
                       <div class="seller-name">
                         <div class="seller-name__wrapper">
-                          <div class="seller-name__title">@OMTOGEL</div>
+                          <div class="seller-name__title">AGENOLX</div>
                           <div class="seller-name__detail" data-spm="seller">
                             <a
                               class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"
