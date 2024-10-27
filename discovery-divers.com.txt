@@ -7,6 +7,7 @@
   <meta name="description" content="AGENOLX merupakan bandar slot online yang menawarkan permainan slot gacor hari ini easy maxwin dengan link akses login tercepat dan aman."/>
   <meta name="keywords" content="slot gacor" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <meta name="google-site-verification" content="PdjfHfZ8u2C3Kxi2COGrhVBQQ7d6A9ys5rXL3zdrOvw" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'/>
   <meta name="data-spm" content="a2o4j"/>
   <meta name="robots" content="index, follow"/>
