@@ -13,14 +13,13 @@
   <meta name="og:title" content="AGENOLX : Link Situs Slot Gacor Hari ini & Bandar Slot Gacor 88 Terbaru"/>
   <meta name="og:type" content="product"/>
   <meta name="og:description" content="AGENOLX merupakan situs slot gacor penyedia permainan slot gacor dan bandar slot gacor 88 terbaru yang terkenal dengan permainan slot online mudah menang."/>
-  <meta name="google-site-verification" content="PdjfHfZ8u2C3Kxi2COGrhVBQQ7d6A9ys5rXL3zdrOvw" />
+  <meta name="google-site-verification" content="zQqRbHuk0ogTNZ9b8xDImrXJ2Vx5UpAtE2xGRddy3d8" />
   <meta name="og:image" content="https://goodimg.io/images/2024/10/26/agenolx_slotgacor.jpg"/>
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/10/11/icon-new.png"/>
   <link rel="canonical" href="http://perfekt-dystrybucja.pl/"/>
   <link rel="amphtml" href="https://pub-ab9d58031f794d2e9f5d9f2aafd8a2d7.r2.dev/perfekt-dystrybucja.pl.html"/>
   <!-- start preload -->
-  
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id"/>
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id"/>
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com"/>
