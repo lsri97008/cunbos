@@ -22,7 +22,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/10/11/icon-new.png" />
   <link rel="canonical" href="https://www.cellteklab.it/" />
-  <link rel="amphtml" href="https://amp-saya.com/sepuh/cellteklab.it/" />
+  <link rel="amphtml" href="https://agen.avatar-amp.info/cellteklab.html" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/10/13/demo.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
