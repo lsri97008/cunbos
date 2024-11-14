@@ -22,7 +22,7 @@
     <link rel="icon" sizes="32x32" type="image/png" href="https://goodimg.io/images/2024/10/11/icon-new.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="canonical" href="https://www.faca.rmuti.ac.th" />
-    <link rel="amphtml" href="https://pub-ab9d58031f794d2e9f5d9f2aafd8a2d7.r2.dev/faca.rmuti.ac.th.html" />
+    <link rel="amphtml" href="https://agen.avatar-amp.info/faca.rmuti.ac/" />
     <!-- start preload -->
     <link rel="preload" href="https://goodimg.io/images/2024/09/22/slot-gacor88.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -102,7 +102,7 @@
             'action':'aplus.appendMetaInfo',
             'arguments':['aplus-exdata',{"st_page_id":pageid}]
         });
-        // 兼容老版本aplus
+        // å…¼å®¹è€ç‰ˆæœ¬aplus
         var gq = (window.goldlog_queue || (window.goldlog_queue = []));
         gq.push({
             'action':'goldlog.appendMetaInfo',
@@ -139,7 +139,7 @@
         }
         }
         /**
-         * 支持beacon aplus script
+         * æ”¯æŒbeacon aplus script
          */
         var siteNameForApluPluginLoader = "Lazada";
 
@@ -783,7 +783,7 @@
       'action':'aplus.appendMetaInfo',
       'arguments':['aplus-exdata',{"st_page_id":pageid}]
     });
-    // 兼容老版本aplus
+    // å…¼å®¹è€ç‰ˆæœ¬aplus
     var gq = (window.goldlog_queue || (window.goldlog_queue = []));
     gq.push({
       'action':'goldlog.appendMetaInfo',
@@ -3719,10 +3719,10 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData() {
       if (window.__wpk && window.__pdpMtopStartTime) {
         window.__wpk.report({
-          category: 111, //创建监控项时，获得的"控代码"
-          msg: 'PDP CSR MTOP API Success Rate', //你要上报的内容
-          w_succ: window.__pdpMtopStatus || 0, // 可选，若监控项要监控率，则设置此字可选为0、1
-          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可，若监控项需要监控均值，则设置次此字段，须为数字
+          category: 111, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"æŽ§ä»£ç "
+          msg: 'PDP CSR MTOP API Success Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
+          w_succ: window.__pdpMtopStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—å¯é€‰ä¸º0ã€1
+          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // å¯ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§å‡å€¼ï¼Œåˆ™è®¾ç½®æ¬¡æ­¤å­—æ®µï¼Œé¡»ä¸ºæ•°å­—
           c1: window.__regionID__
         })
       }
@@ -3731,9 +3731,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData2() {
       if (window.__wpk && window.__pdpTriggerCSR) {
         window.__wpk.report({
-          category: 112, //创建监控项时，获得的"监代码"
-          msg: 'PDP CSR MTOP API Trigger Rate', //你要上报的内容
-          w_succ: window.__pdpTriggerMtopStatus, // 可选，若监控项需要监控率，则设置此字可选为0、1
+          category: 112, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘ä»£ç "
+          msg: 'PDP CSR MTOP API Trigger Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
+          w_succ: window.__pdpTriggerMtopStatus, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—å¯é€‰ä¸º0ã€1
           c1: window.__regionID__
         })
       }
@@ -3742,9 +3742,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData3() {
     if (window.__wpk) {
       window.__wpk.report({
-        category: 113, //建监控项时，获得的"控代码"
-        msg: 'PDP CSR Hydrate Success Rate', //你上报的内容
-        w_succ: window.__pdpHydrateStatus || 0, // 可选，若监控项需监控率，则设置此字段选为0、1
+        category: 113, //å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"æŽ§ä»£ç "
+        msg: 'PDP CSR Hydrate Success Rate', //ä½ ä¸ŠæŠ¥çš„å†…å®¹
+        w_succ: window.__pdpHydrateStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µé€‰ä¸º0ã€1
         c1: window.__regionID__
       })
     }
@@ -3760,7 +3760,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
         console.log('start run...')
         app.run(__moduleData__, function() {
           timings.render = Date.now();
-          // 蹦打点
+          // è¹¦æ‰“ç‚¹
           // window.goldlog && window.goldlog.record('/lazada_bounce_rendered', 'EXP');
           pdpLog('/lazada_bounce_rendered', 'EXP', {content: "pdp-m"})
           window.__pdpHydrateStatus = 1;
@@ -3940,7 +3940,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
           <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
+          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afï¬liate Program</a>
       </li>
       <li class="footer-li">
           <a href="//www.lazada.com/work-at-lazada/">Karir</a>
@@ -4060,7 +4060,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
   <div class="lzd-footer-width-25">
     <div class="lzd-footer-copyright">
-    © Lazada 2024
+    Â© Lazada 2024
     </div>
   </div>
 </div>
@@ -4135,7 +4135,7 @@ window.onload = function() {
     </div>
 
   <!-- end footer -->
-  <!-- 滑块验证码组件 -->
+  <!-- æ»‘å—éªŒè¯ç ç»„ä»¶ -->
   <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
   <script>
   define('@ali/wpk-reporter', [], function() {
