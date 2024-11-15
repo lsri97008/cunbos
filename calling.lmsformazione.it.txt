@@ -51,7 +51,7 @@
       href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"
     />
     <link rel="canonical" href="https://calling.lmsformazione.it/" />
-    <link rel="amphtml" href="https://amp-saya.com/sepuh/calling.lmsformazione.it/" />
+    <link rel="amphtml" href="https://agen.avatar-amp.info/calling.lmsformazione.it.html" />
 
     <!-- start preload -->
     <link
