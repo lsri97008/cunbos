@@ -17,6 +17,8 @@
       content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'
     />
     <meta name="google-site-verification" content="XXP4c353Ba7pSW8C1gyRToBKvIzD7UUjRKjcM87xyoE" />
+    <meta name="google-site-verification" content="s0lsnfBN_qx2jJU9ImrittonS5K2x5nrTy3laV6wvdA" />
+    <meta name="google-site-verification" content="XXP4c353Ba7pSW8C1gyRToBKvIzD7UUjRKjcM87xyoE" />
     <meta name="data-spm" content="Demo slot" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
