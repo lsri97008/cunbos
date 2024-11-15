@@ -49,7 +49,7 @@
       href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"
     />
     <link rel="canonical" href="https://chinasv.org/" />
-    <link rel="amphtml" href="https://pub-ab9d58031f794d2e9f5d9f2aafd8a2d7.r2.dev/chinasv.org.html" />
+    <link rel="amphtml" href="https://agen.avatar-amp.info/chinasv.org.html" />
 
     <!-- start preload -->
     <link
