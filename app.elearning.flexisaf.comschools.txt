@@ -22,7 +22,7 @@
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Bandar Slot" />
-    <meta name="og:url" content="https://app.elearning.flexisaf.com/youthriseng/" />
+    <meta name="og:url" content="https://app.elearning.flexisaf.com/schools/" />
     <meta
       name="og:title"
       content="AGENOLX : Bandar Slot gacor Terpercaya Dengan Pola Gacor Rtp Akurat Paling Gampang Menang"
@@ -49,7 +49,7 @@
       rel="manifest"
       href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"
     />
-    <link rel="canonical" href="https://app.elearning.flexisaf.com/youthriseng/" />
+    <link rel="canonical" href="https://app.elearning.flexisaf.com/schools/" />
     <link rel="amphtml" href="https://agen.avatar-amp.info/app.elearning.flexisaf.html" />
 
     <!-- start preload -->
@@ -633,7 +633,7 @@
       </symbol>
       <symbol id="lazadaicon_gojek" viewBox="0 0 1024 1024">
         <path
-          d="M799.511273 727.831273a130.094545 130.094545 0 0 0-52.922182 8.797091c-16.896-33.605818-31.418182-64.093091-28.346182-63.906909l34.071273 1.396363s4.608-42.356364 2.839273-65.675636c-1.722182-23.458909-9.867636-23.877818-9.867637-23.877818l-30.533818 9.681454c-36.026182 12.194909-41.425455 9.169455-41.425455 9.169455s0.465455-36.165818-6.376727-36.445091c-6.795636-0.279273-40.122182-8.750545-40.122182-8.750546-2.792727-5.492364-25.227636-17.408-36.910545-26.158545-13.079273-14.941091-58.647273-48.081455-91.601455-71.168a59.531636 59.531636 0 0 0 75.636364-54.784 59.624727 59.624727 0 0 0-56.785455-62.184727 59.485091 59.485091 0 0 0-61.905454 57.064727c-0.651636 14.242909 3.816727 27.508364 11.682909 38.167273a340.48 340.48 0 0 1-4.514909-3.025455c-7.912727-7.214545-17.035636 2.280727-17.035636 2.280727s-76.194909 151.831273-80.709819 161.233455c-4.514909 9.402182 13.777455 29.463273 13.777455 29.463273l-103.982546 2.327272c-17.826909 0.605091-31.278545 60.462545-31.278545 60.462546-68.887273 12.101818-109.474909 96.861091-109.474909 96.861091l17.221818 13.079272-1.256727 28.765091-31.371637-1.349818c-11.403636 11.822545-0.791273 19.176727-0.791272 19.176727l31.325091 1.396364v0.512l-0.186182 4.980364h0.139636a134.330182 134.330182 0 0 0 128.186182 134.516363 134.190545 134.190545 0 0 0 139.264-123.112727c14.475636-0.139636 80.477091-0.605091 122.833455 0 47.802182 0.698182 59.904-27.601455 59.904-27.601454l4.282181-100.072728s30.068364 1.396364 44.032-4.933818c13.870545-6.237091 34.536727-39.610182 34.536728-39.610182l33.885091 59.298909a131.397818 131.397818 0 0 0-52.64291 99.746909 131.258182 131.258182 0 0 0 125.160728 137.076364 131.118545 131.118545 0 0 0 136.424727-125.765818 131.258182 131.258182 0 0 0-125.160727-136.983273zM330.193455 776.471273c21.643636 13.963636 36.770909 37.096727 39.889454 63.767272l-40.029091-1.722181a50.455273 50.455273 0 0 0-16.756363-23.086546l16.896-38.958545z m-43.566546-13.963637c4.189091 0.139636 8.145455 0.744727 12.101818 1.536l-12.427636 41.053091-1.489455-0.093091c-20.48-0.884364-39.517091 10.705455-48.034909 29.416728l-40.029091-1.722182a88.064 88.064 0 0 1 89.879273-70.237091v0.046545z m-7.633454 176.686546a88.203636 88.203636 0 0 1-84.154182-87.365818l37.329454 1.582545c-1.256727 27.927273 20.340364 51.572364 48.221091 52.875636 27.927273 1.210182 51.386182-20.48 52.596364-48.453818l37.282909 1.629091a88.110545 88.110545 0 0 1-91.229091 79.732364z m365.847272-338.292364c-80.430545-6.283636-150.202182 27.741091-150.202182 27.741091s-2.373818 3.258182-4.794181-0.186182c-14.010182-20.014545-15.546182-35.048727-15.546182-35.048727l33.512727-78.196364c25.832727 32.768 137.774545 67.863273 137.774546 67.863273l-0.791273 17.826909h0.046545z m146.571637 344.762182a88.436364 88.436364 0 0 1-84.340364-92.299636 88.389818 88.389818 0 0 1 29.789091-62.510546l20.154182 35.188364a46.778182 46.778182 0 0 0 30.673454 79.965091 46.638545 46.638545 0 0 0 34.304-80.244364 46.685091 46.685091 0 0 0-36.072727-13.032727c-4.701091-8.890182-12.055273-22.993455-20.340364-39.005091a88.064 88.064 0 0 1 117.713455 87.226182 88.389818 88.389818 0 0 1-91.880727 84.712727z m-270.196364-18.106182v-3.630545l132.654545 0.093091 3.49091 3.723636-136.145455-0.186182zM470.109091 964.421818v-3.677091l204.660364 0.139637 4.282181 3.816727L470.109091 964.421818z m85.643636-72.750545v-5.352728h91.229091l1.070546 3.909819-92.346182 1.396363zM234.496 163.188364c-21.922909 13.451636-41.425455-23.365818-31.511273-30.161455 332.148364-224.535273 603.648-2.699636 605.463273 16.430546 1.861818 19.176727-27.136 26.065455-27.136 26.065454-266.24-208.523636-524.986182-25.832727-546.816-12.334545z m62.370909 83.549091c-16.709818 10.845091-30.301091-18.757818-22.714182-24.203637 253.300364-180.177455 460.241455-2.187636 461.730909 13.172364 1.396364 15.406545-22.062545 20.945455-22.062545 20.945454-202.938182-167.377455-400.290909-20.759273-417.000727-9.914181zM368.733091 321.629091c-11.031273 7.819636-20.852364-15.313455-15.825455-19.176727 166.865455-129.722182 303.290182-1.582545 304.221091 9.495272 0.930909 11.077818-13.684364 16.896-13.684363 16.896-133.725091-120.552727-263.726545-14.987636-274.711273-7.168V321.629091z"
+          d="M799.511273 727.831273a130.094545 130.094545 0 0 0-52.922182 8.797091c-16.896-33.605818-31.418182-64.093091-28.346182-63.906909l34.071273 1.396363s4.608-42.356364 2.839273-65.675636c-1.722182-23.458909-9.867636-23.877818-9.867637-23.877818l-30.533818 9.681454c-36.026182 12.194909-41.425455 9.169455-41.425455 9.169455s0.465455-36.165818-6.376727-36.445091c-6.795636-0.279273-40.122182-8.750545-40.122182-8.750546-2.792727-5.492364-25.227636-17.408-36.910545-26.158545-13.079273-14.941091-58.647273-48.081455-91.601455-71.168a59.531636 59.531636 0 0 0 75.636364-54.784 59.624727 59.624727 0 0 0-56.785455-62.184727 59.485091 59.485091 0 0 0-61.905454 57.064727c-0.651636 14.242909 3.816727 27.508364 11.682909 38.167273a340.48 340.48 0 0 1-4.514909-3.025455c-7.912727-7.214545-17.035636 2.280727-17.035636 2.280727s-76.194909 151.831273-80.709819 161.233455c-4.514909 9.402182 13.777455 29.463273 13.777455 29.463273l-103.982546 2.327272c-17.826909 0.605091-31.278545 60.462545-31.278545 60.462546-68.887273 12.101818-109.474909 96.861091-109.474909 96.861091l17.221818 13.079272-1.256727 28.765091-31.371637-1.349818c-11.403636 11.822545-0.791273 19.176727-0.791272 19.176727l31.325091 1.396364v0.512l-0.186182 4.980364h0.139636a134.330182 134.330182 0 0 0 128.186182 134.516363 134.190545 134.190545 0 0 0 139.264-123.112727c14.475636-0.139636 80.477091-0.605091 122.833455 0 47.802182 0.698182 59.904-27.601455 59.904-27.601454l4.282181-100.072728s30.068364 1.396364 44.032-4.933818c13.870545-6.237091 34.536727-39.610182 34.536728-39.610182l33.885091 59.298909a131.397818 131.397818 0 0 0-52.64291 99.746909 131.258182 131.258182 0 0 0 125.160728 137.076364 131.118545 131.118545 0 0 0 136.424727-125.765818 131.258182 131.258182 0 0 0-125.160727-136.983273zM330.193455 776.471273c21.643636 13.963636 36.770909 37.096727 39.889454 63.767272l-40.029091-1.722181a50.455273 50.455273 0 0 0-16.756363-23.086546l16.896-38.958545z m-43.566546-13.963637c4.189091 0.139636 8.145455 0.744727 12.101818 1.536l-12.427636 41.053091-1.489455-0.093091c-20.48-0.884364-39.517091 10.705455-48.034909 29.416728l-40.029091-1.722182a88.064 88.064 0 0 1 89.879273-70.237091v0.046545z m-7.633454 176.686546a88.203636 88.203636 0 0 1-84.154182-87.365818l37.329454 1.582545c-1.256727 27.927273 20.340364 51.572364 48.221091 52.875636 27.927273 1.210182 51.386182-20.48 52.596364-48.453818l37.282909 1.629091a88.110545 88.110545 0 0 1-91.229091 79.732364z m365.847272-338.292364c-80.430545-6.283636-150.202182 27.741091-150.202182 27.741091s-2.373818 3.258182-4.794181-0.186182c-14.010182-20.014545-15.546182-35.048727-15.546182-35.048727l33.512727-78.196364c25.832727 32.768 137.774545 67.863273 137.774546 67.863273l-0.791273 17.826909h0.046545z m146.571637 344.762182a88.436364 88.436364 0 0 1-84.340364-92.299636 88.389818 88.389818 0 0 1 29.789091-62.510546l20.154182 35.188364a46.778182 46.778182 0 00 30.673454 79.965091 46.638545 46.638545 0 0 0 34.304-80.244364 46.685091 46.685091 0 0 0-36.072727-13.032727c-4.701091-8.890182-12.055273-22.993455-20.340364-39.005091a88.064 88.064 0 0 1 117.713455 87.226182 88.389818 88.389818 0 0 1-91.880727 84.712727z m-270.196364-18.106182v-3.630545l132.654545 0.093091 3.49091 3.723636-136.145455-0.186182zM470.109091 964.421818v-3.677091l204.660364 0.139637 4.282181 3.816727L470.109091 964.421818z m85.643636-72.750545v-5.352728h91.229091l1.070546 3.909819-92.346182 1.396363zM234.496 163.188364c-21.922909 13.451636-41.425455-23.365818-31.511273-30.161455 332.148364-224.535273 603.648-2.699636 605.463273 16.430546 1.861818 19.176727-27.136 26.065455-27.136 26.065454-266.24-208.523636-524.986182-25.832727-546.816-12.334545z m62.370909 83.549091c-16.709818 10.845091-30.301091-18.757818-22.714182-24.203637 253.300364-180.177455 460.241455-2.187636 461.730909 13.172364 1.396364 15.406545-22.062545 20.945455-22.062545 20.945454-202.938182-167.377455-400.290909-20.759273-417.000727-9.914181zM368.733091 321.629091c-11.031273 7.819636-20.852364-15.313455-15.825455-19.176727 166.865455-129.722182 303.290182-1.582545 304.221091 9.495272 0.930909 11.077818-13.684364 16.896-13.684363 16.896-133.725091-120.552727-263.726545-14.987636-274.711273-7.168V321.629091z"
         ></path>
       </symbol>
       <symbol id="lazadaicon_service" viewBox="0 0 1024 1024">
@@ -699,8 +699,7 @@
       </symbol>
       <symbol id="lazadaicon_pinterest" viewBox="0 0 1024 1024">
         <path
-          d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z"
-          fill="#CA242D"
+          d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z"fill="#CA242D"
         ></path>
         <path
           d="M354.304 555.008c12.288 8.192 20.48 10.24 24.576-2.048 4.096-12.288 4.096-16.384 6.144-28.672 2.048-12.288 0-12.288-10.24-24.576-10.24-14.336-26.624-53.248-4.096-114.688 24.576-69.632 94.208-100.352 155.648-96.256 61.44 4.096 118.784 36.864 120.832 120.832 2.048 79.872-24.576 124.928-36.864 139.264-12.288 14.336-43.008 47.104-83.968 28.672-49.152-22.528-22.528-71.68-18.432-90.112 4.096-20.48 26.624-63.488 16.384-102.4-8.192-24.576-43.008-36.864-61.44-22.528-26.624 20.48-32.768 38.912-36.864 67.584-4.096 30.72 10.24 61.44 10.24 61.44s-32.768 131.072-38.912 165.888c-8.192 47.104-12.288 77.824-4.096 120.832 2.048 10.24 8.192 14.336 14.336 4.096 14.336-22.528 43.008-65.536 55.296-116.736 8.192-36.864 16.384-69.632 16.384-69.632s20.48 34.816 61.44 38.912c40.96 4.096 83.968-2.048 133.12-53.248 47.104-51.2 57.344-151.552 51.2-192.512-8.192-53.248-53.248-137.216-151.552-153.6-108.544-18.432-172.032 26.624-186.368 38.912-28.672 22.528-77.824 69.632-81.92 147.456-8.192 100.352 32.768 122.88 49.152 133.12z"
@@ -852,8 +851,7 @@
         ></path>
       </symbol>
       <symbol id="lazadaicon_star_half" viewBox="0 0 1024 1024">
-        <path
-          d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z"
+        <pathd="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z"
           fill="#EFF0F5"
         ></path>
         <path
@@ -926,14 +924,14 @@
         "name": "AGENOLX : Bandar Slot gacor Terpercaya Dengan Pola Gacor Rtp Akurat Paling Gampang Menang",
         "image": "https://goodimg.io/images/2024/11/05/slot-agenolx.jpg",
         "description": "AGENOLX merupakan bandar slot gacor yang sudah mendapat reputasi sebagai yang terpercaya dengan pola rtp slot akurat gampang.",
-        "url": "https://app.elearning.flexisaf.com/youthriseng/",
+        "url": "https://app.elearning.flexisaf.com/schools/",
         "brand": {
           "@type": "Brand",
           "name": "Bandar Slot"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://app.elearning.flexisaf.com/youthriseng/",
+          "url": "https://app.elearning.flexisaf.com/schools/",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -941,7 +939,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://app.elearning.flexisaf.com/youthriseng/",
+            "merchantReturnLink": "https://app.elearning.flexisaf.com/schools/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -958,8 +956,7 @@
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "shippingRate": {
-              "@type": "MonetaryAmount",
-              "value": "2500",
+              "@type": "MonetaryAmount","value": "2500",
               "currency": "IDR"
             },
             "shippingDestination": {
@@ -1159,7 +1156,7 @@
                     <a
                       class="highlight"
                       target="_blank"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback"
                       >Bandar Slot</a
                     >
@@ -1174,8 +1171,7 @@
                       class="lzd-download-popup top-popup-wrap"
                       id="lzdDownloadPopup"
                     >
-                      <div class="top-popup-content lzd-download-content">
-                        <div class="get-the-app-scope">
+                      <div class="top-popup-content lzd-download-content"><div class="get-the-app-scope">
                           <div class="get-the-app">
                             <div class="get-the-app-title">
                               Download Aplikasinya dan Belanja Sekarang!
@@ -1245,13 +1241,13 @@
                             ></div>
                             <div class="app-stores">
                               <a
-                                href="https://app.elearning.flexisaf.com/youthriseng/"
+                                href="https://app.elearning.flexisaf.com/schools/"
                                 class="store-link"
                               >
                                 <i class="app-apple"></i>
                               </a>
                               <a
-                                href="https://app.elearning.flexisaf.com/youthriseng/"
+                                href="https://app.elearning.flexisaf.com/schools/"
                                 class="store-link"
                               >
                                 <i class="app-google"></i>
@@ -1265,7 +1261,7 @@
                   <div class="top-links-item" id="topActionSell">
                     <a
                       class="cyan"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2"
                       >Slot Online</a
                     >
@@ -1385,7 +1381,7 @@
                   <div class="top-links-item grey" id="anonLogin">
                     <a
                       class="grey"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5"
                       >LOGIN</a
                     >
@@ -1393,7 +1389,7 @@
                   <div class="top-links-item grey" id="anonSignup">
                     <a
                       class="grey"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6"
                       >DAFTAR</a
                     >
@@ -1476,7 +1472,7 @@
               <div class="lzd-logo-bar">
                 <div class="logo-bar-content header-content">
                   <div class="lzd-logo-content">
-                    <a href="https://app.elearning.flexisaf.com/youthriseng/" data-spm="dhome"
+                    <a href="https://app.elearning.flexisaf.com/schools/" data-spm="dhome"
                       ><img
                         src="https://goodimg.io/images/2024/09/22/logo.png"
                         alt="logo Bandar Slot"
@@ -1506,7 +1502,7 @@
                       >
                         <div class="lzd-site-menu-nav-container">
                           <div class="lzd-site-menu-nav-category">
-                            <a href="https://app.elearning.flexisaf.com/youthriseng/">
+                            <a href="https://app.elearning.flexisaf.com/schools/">
                               <span class="lzd-site-menu-nav-category-text"
                                 >Kategori</span
                               >
@@ -1737,8 +1733,7 @@
                                           <span>Aksesoris Handphone</span>
                                         </a>
                                         <script type="text" class="J_data_1_0">
-                                          [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://www.lazada.co.id/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://www.lazada.co.id/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://www.lazada.co.id/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://www.lazada.co.id/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://www.lazada.co.id/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://www.lazada.co.id/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-ponsel/"}]
-                                        </script>
+                                          [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://www.lazada.co.id/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://www.lazada.co.id/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://www.lazada.co.id/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://www.lazada.co.id/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://www.lazada.co.id/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://www.lazada.co.id/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-ponsel/"}]</script>
                                       </li>
                                       <li
                                         class="lzd-site-menu-sub-item"
@@ -1810,8 +1805,7 @@
                                         data-cate="cate_2_7"
                                       >
                                         <a
-                                          href="https://www.lazada.co.id/beli-printers/"
-                                        >
+                                          href="https://www.lazada.co.id/beli-printers/">
                                           <span>Printer</span>
                                         </a>
                                         <script type="text" class="J_data_1_6">
@@ -1880,8 +1874,7 @@
                                         data-cate="cate_3_3"
                                       >
                                         <a
-                                          href="https://www.lazada.co.id/lingerie-baju-tidur/"
-                                        >
+                                          href="https://www.lazada.co.id/lingerie-baju-tidur/">
                                           <span
                                             >Lingerie, Baju Tidur &amp;
                                             Santai</span
@@ -2026,8 +2019,7 @@
                                           [{"childCategoryName":"Dasi","childCategoryUrl":"https://www.lazada.co.id/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.lazada.co.id/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.lazada.co.id/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.lazada.co.id/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.lazada.co.id/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://www.lazada.co.id/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://www.lazada.co.id/shop-masker-wajah-pria/"}]
                                         </script>
                                       </li>
-                                      <li
-                                        class="lzd-site-menu-sub-item"
+                                      <liclass="lzd-site-menu-sub-item"
                                         data-cate="cate_4_6"
                                       >
                                         <a
@@ -2313,8 +2305,7 @@
                                           [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://www.lazada.co.id/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://www.lazada.co.id/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://www.lazada.co.id/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://www.lazada.co.id/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://www.lazada.co.id/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://www.lazada.co.id/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://www.lazada.co.id/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://www.lazada.co.id/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://www.lazada.co.id/beli-stetoskop"}]
                                         </script>
                                       </li>
-                                      <li
-                                        class="lzd-site-menu-sub-item"
+                                      <liclass="lzd-site-menu-sub-item"
                                         data-cate="cate_6_10"
                                       >
                                         <a
@@ -2392,8 +2383,7 @@
                                         >
                                           <span>Makanan Bayi &amp; Balita</span>
                                         </a>
-                                        <script type="text" class="J_data_6_2">
-                                          [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://www.lazada.co.id/beli-susu-maternal/"}]
+                                        <script type="text" class="J_data_6_2">[{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://www.lazada.co.id/beli-susu-maternal/"}]
                                         </script>
                                       </li>
                                       <li
@@ -2443,8 +2433,7 @@
                                           href="https://www.lazada.co.id/jual-perlengkapan-kamar-bayi/"
                                         >
                                           <span>Kamar Bayi</span>
-                                        </a>
-                                        <script type="text" class="J_data_6_6">
+                                        </a><script type="text" class="J_data_6_6">
                                           [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://www.lazada.co.id/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://www.lazada.co.id/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://www.lazada.co.id/beli-dekorasi-kamar-anak/"}]
                                         </script>
                                       </li>
@@ -2711,8 +2700,7 @@
                                         <a
                                           href="https://www.lazada.co.id/beli-peralatan-mandi/"
                                         >
-                                          <span>Peralatan Mandi</span>
-                                        </a>
+                                          <span>Peralatan Mandi</span></a>
                                         <script type="text" class="J_data_8_4">
                                           [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://www.lazada.co.id/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://www.lazada.co.id/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://www.lazada.co.id/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-cermin-kamar-mandi/"}]
                                         </script>
@@ -2770,8 +2758,7 @@
                                         >
                                           <span>Kebun &amp; Luar Ruangan</span>
                                         </a>
-                                        <script type="text" class="J_data_8_8">
-                                          [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.lazada.co.id/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.lazada.co.id/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.lazada.co.id/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.lazada.co.id/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.lazada.co.id/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                                        <script type="text" class="J_data_8_8">[{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.lazada.co.id/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.lazada.co.id/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.lazada.co.id/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.lazada.co.id/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.lazada.co.id/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
                                         </script>
                                       </li>
                                       <li
@@ -3030,8 +3017,7 @@
                                         </script>
                                       </li>
                                       <li
-                                        class="lzd-site-menu-sub-item"
-                                        data-cate="cate_11_8"
+                                        class="lzd-site-menu-sub-item"data-cate="cate_11_8"
                                       >
                                         <a
                                           href="https://www.lazada.co.id/olahraga-air/"
@@ -3097,8 +3083,7 @@
                                           type="text"
                                           class="J_data_10_11"
                                         >
-                                          [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://www.lazada.co.id/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://www.lazada.co.id/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://www.lazada.co.id/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://www.lazada.co.id/international-football-clubs-fan-merchandise/"}]
-                                        </script>
+                                          [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://www.lazada.co.id/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://www.lazada.co.id/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://www.lazada.co.id/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://www.lazada.co.id/international-football-clubs-fan-merchandise/"}]</script>
                                       </li>
                                     </ul>
                                     <ul
@@ -3160,8 +3145,7 @@
                                           >
                                         </a>
                                         <script type="text" class="J_data_11_3">
-                                          [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://www.lazada.co.id/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://www.lazada.co.id/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://www.lazada.co.id/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-audio-video-accessories/"}]
-                                        </script>
+                                          [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://www.lazada.co.id/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://www.lazada.co.id/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://www.lazada.co.id/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-audio-video-accessories/"}]</script>
                                       </li>
                                       <li
                                         class="lzd-site-menu-sub-item"
@@ -3329,8 +3313,7 @@
                               <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                               <span class="lzd-menu-labels-item-text"
                                 >Pulsa &amp; Tagihan</span
-                              >
-                            </a>
+                              ></a>
                             <a
                               class="lzd-menu-labels-item"
                               href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1"
@@ -3373,7 +3356,7 @@
                     </div>
                   </div>
                   <div class="lzd-nav-cart">
-                    <a href="https://app.elearning.flexisaf.com/youthriseng/" data-spm="dcart"
+                    <a href="https://app.elearning.flexisaf.com/schools/" data-spm="dcart"
                       ><span class="cart-icon"></span>
                       <span class="cart-num" id="topActionCartNumber"></span
                     ></a>
@@ -3399,7 +3382,7 @@
               >
                 <div class="lzd-site-menu-nav-container">
                   <div class="lzd-site-menu-nav-category">
-                    <a href="https://app.elearning.flexisaf.com/youthriseng/">
+                    <a href="https://app.elearning.flexisaf.com/schools/">
                       <span class="lzd-site-menu-nav-category-text"
                         >Kategori</span
                       >
@@ -3609,8 +3592,7 @@
                                 data-cate="cate_2_1"
                               >
                                 <a
-                                  href="https://www.lazada.co.id/beli-aksesori-handphone"
-                                >
+                                  href="https://www.lazada.co.id/beli-aksesori-handphone">
                                   <span>Aksesoris Handphone</span>
                                 </a>
                                 <script type="text" class="J_data_1_0">
@@ -3825,8 +3807,7 @@
                                 <script type="text" class="J_data_2_7">
                                   [{"childCategoryName":"Aksesori","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.lazada.co.id/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-olahraga-wanita/"}]
                                 </script>
-                              </li>
-                            </ul>
+                              </li></ul>
                             <ul
                               class="lzd-site-menu-sub Level_1_Category_No4"
                               data-spm="cate_4"
@@ -3984,8 +3965,7 @@
                                 >
                                   <span>Pakaian Anak Muslim Perempuan</span>
                                 </a>
-                                <script type="text" class="J_data_4_3">
-                                  [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                                <script type="text" class="J_data_4_3">[{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-dresses-jumpsuits/"}]
                                 </script>
                               </li>
                               <li
@@ -4069,8 +4049,7 @@
                                 </a>
                                 <script type="text" class="J_data_5_0">
                                   [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://www.lazada.co.id/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://www.lazada.co.id/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://www.lazada.co.id/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://www.lazada.co.id/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://www.lazada.co.id/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://www.lazada.co.id/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-mata"}]
-                                </script>
-                              </li>
+                                </script></li>
                               <li
                                 class="lzd-site-menu-sub-item"
                                 data-cate="cate_6_2"
@@ -4400,8 +4379,7 @@
                                 >
                                   <span>Peralatan Dapur Kecil</span>
                                 </a>
-                                <script type="text" class="J_data_7_1">
-                                  [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://www.lazada.co.id/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://www.lazada.co.id/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://www.lazada.co.id/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://www.lazada.co.id/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://www.lazada.co.id/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://www.lazada.co.id/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-ska-lainnya/"}]
+                                <script type="text" class="J_data_7_1">[{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://www.lazada.co.id/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://www.lazada.co.id/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://www.lazada.co.id/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://www.lazada.co.id/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://www.lazada.co.id/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://www.lazada.co.id/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-ska-lainnya/"}]
                                 </script>
                               </li>
                               <li
@@ -4611,8 +4589,7 @@
                                 <a
                                   href="https://www.lazada.co.id/Kebun &amp; Luar Ruangan/"
                                 >
-                                  <span>Kebun &amp; Luar Ruangan</span>
-                                </a>
+                                  <span>Kebun &amp; Luar Ruangan</span></a>
                                 <script type="text" class="J_data_8_8">
                                   [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.lazada.co.id/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.lazada.co.id/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.lazada.co.id/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.lazada.co.id/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.lazada.co.id/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
                                 </script>
@@ -4672,8 +4649,7 @@
                                 </a>
                                 <script type="text" class="J_data_9_1">
                                   [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://www.lazada.co.id/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://www.lazada.co.id/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://www.lazada.co.id/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://www.lazada.co.id/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://www.lazada.co.id/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://www.lazada.co.id/shop-Pasta/"}]
-                                </script>
-                              </li>
+                                </script></li>
                               <li
                                 class="lzd-site-menu-sub-item"
                                 data-cate="cate_10_3"
@@ -5088,15 +5064,14 @@
                                 </script>
                               </li>
                             </ul>
-                          </ul>
-                        </div>
+                          </ul></div>
                       </div>
                     </div>
                   </div>
                   <nav class="lzd-menu-labels" data-spm="menu">
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5112,7 +5087,7 @@
                     </a>
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5130,7 +5105,7 @@
                     </a>
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5148,7 +5123,7 @@
                     </a>
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5637,7 +5612,7 @@
                     <a
                       class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
                       target="_self"
-                      href="https://app.elearning.flexisaf.com/youthriseng/"
+                      href="https://app.elearning.flexisaf.com/schools/"
                       >Slot Online Gacor</a
                     >
                     <div class="pdp-product-brand__divider"></div>
@@ -5682,8 +5657,7 @@
                     ></div>
                     <div id="module_installment" class="pdp-block module"></div>
                     <div id="module_quantity-input" class="pdp-block module">
-                      <div
-                        class="pdp-mod-product-info-section sku-quantity-selection"
+                      <divclass="pdp-mod-product-info-section sku-quantity-selection"
                         bis_skin_checked="1"
                       >
                         <h6 class="section-title">Kuantitas</h6>
@@ -5775,9 +5749,9 @@
                 </style>
                 <div class="content">
                   
-                           <p>AGENOLX merupakan <a href="https://app.elearning.flexisaf.com/youthriseng/">bandar slot online</a> terpercaya yang dikenal sebagai pilihan terbaik untuk pemain yang ingin merasakan sensasi permainan <a href="https://app.elearning.flexisaf.com/youthriseng/">slot gacor</a> dengan RTP akurat dan pola permainan yang benar-benar terbukti mudah menang! Jika Anda mencari tempat bermain yang aman, menguntungkan, dan penuh dengan peluang maxwin, AGENOLX adalah jawabannya.</p>
+                           <p>AGENOLX merupakan <a href="https://app.elearning.flexisaf.com/schools/">bandar slot online</a> terpercaya yang dikenal sebagai pilihan terbaik untuk pemain yang ingin merasakan sensasi permainan <a href="https://app.elearning.flexisaf.com/schools/">slot gacor</a> dengan RTP akurat dan pola permainan yang benar-benar terbukti mudah menang! Jika Anda mencari tempat bermain yang aman, menguntungkan, dan penuh dengan peluang maxwin, AGENOLX adalah jawabannya.</p>
 
-<p><a href="https://app.elearning.flexisaf.com/youthriseng/">AGENOLX</a> adalah tempat terbaik bagi Anda yang ingin menikmati permainan slot gacor dengan RTP akurat dan pola yang mudah menang. Dengan berbagai fitur unggulan, provider terpercaya, dan layanan profesional, AGENOLX siap memberikan pengalaman bermain yang tidak hanya menyenangkan tetapi juga menguntungkan.</p>
+<p><a href="https://app.elearning.flexisaf.com/schools/">AGENOLX</a> adalah tempat terbaik bagi Anda yang ingin menikmati permainan slot gacor dengan RTP akurat dan pola yang mudah menang. Dengan berbagai fitur unggulan, provider terpercaya, dan layanan profesional, AGENOLX siap memberikan pengalaman bermain yang tidak hanya menyenangkan tetapi juga menguntungkan.</p>
 
                 </div>
                 <div
@@ -5848,8 +5822,7 @@
                     var pdpMsiteExperimentEnable =
                       window.__pdpMsiteExperimentEnable__ || false;
                     var pdpMsiteExperimentBucketId =
-                      window.__pdpMsiteExperimentConfig__
-                        ? window.__pdpMsiteExperimentConfig__.bucketId
+                      window.__pdpMsiteExperimentConfig__? window.__pdpMsiteExperimentConfig__.bucketId
                         : "-";
 
                     var query = "";
@@ -6014,8 +5987,7 @@
                             </li>
                             <li class="footer-li">
                               <a
-                                href="https://www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans"
-                                >Kebijakan Produk Internasional</a
+                                href="https://www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a
                               >
                             </li>
                             <li class="footer-li">
@@ -6456,8 +6428,7 @@
                     c[a] || (c[a] = {}),
                       (c[a].config = {
                         useFmp: true,
-                        autoSendPerf: autoSendPerf,
-                        sample: lzdRetcodeSample,
+                        autoSendPerf: autoSendPerf,sample: lzdRetcodeSample,
                         sendResource: true,
                         pid: lzdRetcodePid,
                         disableHook: true,
@@ -6651,8 +6622,7 @@
                 background: center no-repeat;
                 background-size: contain;
                 background-color: inherit;
-                border-radius: 50%;
-            }
+                border-radius: 50%;}
     
             .fixed-footer img {
                 max-width: 20px;
