@@ -1,0 +1,823 @@
+
+<!doctype html>
+<html ⚡ lang="id">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+    <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/25/1600.jpg" type="image/webp" />
+    <link href=https://fonts.gstatic.com rel="dns-prefetch preconnect" crossorigin>
+    <link rel="canonical" href="https://rajindrahospitalpatiala.com/" />
+    <link rel="shortcut icon" href="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/demo-png.png" sizes="16x16">
+    <link rel="apple-touch-icon-precomposed" href="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/demo-png.png" sizes="16x16">
+    <title>AGENOLX : Situs Slot Demo PgSoft Dan Pragmatic Gratis Terbaik 2024</title>
+    <meta name="description" content="AGENOLX Kini hadir sebagai situs slot terbaik 2024 yang menyediakan fitur terbaru yaitu slot demo online dari provider ternama Pgsoft dan Pragmatic yang dapat anda mainkan secara gratis!" />
+    <meta name="robots" content="index, follow" />
+  
+    <meta name="publisher" content="AGENOLX : Situs Slot Demo PgSoft Dan Pragmatic Gratis Terbaik 2024" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="AGENOLX : Situs Slot Demo PgSoft Dan Pragmatic Gratis Terbaik 2024" />
+    <meta property="og:description" content="AGENOLX Kini hadir sebagai situs slot terbaik 2024 yang menyediakan fitur terbaru yaitu slot demo online dari provider ternama Pgsoft dan Pragmatic yang dapat anda mainkan secara gratis!" />
+    <meta property="og:url" content="https://rajindrahospitalpatiala.com/">
+  
+    <meta property="og:image" content="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/demo-png.png" />
+    <meta property="og:image:alt" content="Slot Demo Terbaru" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AGENOLX : Situs Slot Demo PgSoft Dan Pragmatic Gratis Terbaik 2024" />
+    <meta name="twitter:description" content="AGENOLX Kini hadir sebagai situs slot terbaik 2024 yang menyediakan fitur terbaru yaitu slot demo online dari provider ternama Pgsoft dan Pragmatic yang dapat anda mainkan secara gratis!" />
+    <meta name="twitter:image" content="https://goodimg.io/images/2024/09/25/1600.jpg" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+   
+
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style><noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+
+    <style amp-custom>
+        :root {
+            --small-font: 12px;
+            --normal-font: 14px;
+            --large-font: 16px;
+            --x-large-font: 18px
+        }
+
+        body {
+            font-size: var(--normal-font);
+            display: flex;
+            flex-direction: column;
+            padding-top: 54px;
+            padding-bottom: 52px
+        }
+
+        body {
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        a {
+            text-decoration: none;
+            color: #ffffffd7;
+        }
+
+        summary {
+            outline: none
+        }
+
+        .container {
+            align-self: center;
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        .logo-container {
+            text-align: center;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 99
+        }
+
+        .logo-container .logo {
+            width: calc(30px*100/28);
+            display: block
+        }
+
+        .logo-container .logo amp-img {
+            flex-grow: 1
+        }
+
+
+        .link-container {
+            display: flex;
+            justify-content: center;
+            font-size: var(--x-large-font);
+            padding: 0;
+            width: 100%
+        }
+
+        .link-container a {
+            width: 50%;
+            text-align: center;
+            padding: 15px 20px;
+            text-transform: uppercase
+        }
+
+
+        .footer-container {
+            text-align: center
+        }
+
+
+        .footer-container h1 {
+            display: inline;
+            color: #ffffffd7;
+        }
+
+        .footer-container h2 {
+            display: inline;
+            color: #ffffffd7;
+        }
+
+        .footer-container h3 {
+            display: inline;
+            color: #ffffffd7;
+        }
+
+        .footer-container h4 {
+            display: inline;
+            color: #ff8800d7;
+        }
+
+        .footer-container h5 {
+            display: inline;
+            color: #a200ffd7
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        li {
+            margin-top: 10px;
+            text-align: justify;
+            font-size: 16px;
+        }
+
+
+        .fixed-footer {
+            display: flex;
+            justify-content: space-around;
+            position: fixed;
+            background-color: #ffffff;
+            padding: 5px 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 99
+        }
+
+        .fixed-footer a {
+            flex-basis: calc((100% - 15px*6)/5);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #120ee8b2
+        }
+
+
+        @media(min-width:1200px) {
+            .container {
+                width: 1170px
+            }
+        }
+
+        @media(min-width:992px) {
+            .container {
+                width: 970px
+            }
+        }
+
+
+        body {
+            background-color: #000000
+        }
+
+        .logo-container {
+            background-color: #000000
+        }
+
+
+        .register-button {
+
+            background: linear-gradient(to bottom, #001782, #002aee)
+        }
+
+        .register-button:hover {
+
+            background: linear-gradient(to bottom, #002aee, #001089)
+        }
+
+        .login-button {
+
+            background: linear-gradient(to bottom, #a38400, #ffb500)
+        }
+
+        .login-button:hover {
+
+            background: linear-gradient(to bottom, #756500, #ffb500)
+        }
+
+        .footer-container {
+            color: #d8d3cdde;
+            font-family: system-ui;
+        }
+
+        .site-description {
+            margin-left: 10px;
+            margin-right: 10px;
+            background-color: #38002f83
+        }
+
+        .fixed-footer {
+            background-color: #6e0000
+        }
+
+
+        .fixed-footer a.active {
+            color: #ebebeb
+        }
+
+        .copy {
+            text-align: center;
+            padding: 20px;
+            background-color: #8d0000a9;
+            font-size: medium;
+            color: #ffffff;
+        }
+
+
+        .faq {
+            margin-top: 10px;
+            text-align: left;
+            margin-top: 15px;
+        }
+
+        @media(min-width:768px) {
+            body {
+                background-color: rgb(0, 0, 0)
+            }
+        }
+
+        .game_list {
+            display: grid;
+            grid-gap: 5px;
+            grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+        }
+
+        .game_box {
+            border-radius: 5px;
+            background: #112233;
+            border: 1px solid #ffbf00;
+            padding: 5px;
+        }
+
+        .game_box amp-img {
+            border-radius: 5px;
+            border: 2px solid #0014ff;
+        }
+
+        .game_section {
+            width: 95%;
+            align-self: center;
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        .game_img {
+            background-color: #000000
+        }
+
+        .titlegame {
+            text-transform: uppercase;
+            text-align: center;
+            
+        }
+
+    </style>
+</head>
+
+<body>
+
+
+    <div class="logo-container">
+        <a href="https://rajindrahospitalpatiala.com/" class="logo">
+            <amp-img data-hero layout="responsive" width="305" height="100" src="https://goodimg.io/images/2024/09/22/logo.png" alt="demo slot"
+                noloading></amp-img></a>
+
+    </div>
+
+    <amp-img data-hero src="https://goodimg.io/images/2024/09/25/1600.jpg" role="banner"
+        title="AGENOLX : Situs Slot Demo PgSoft Dan Pragmatic Gratis Terbaik 2024" layout="responsive"
+        width="1200" height="500" alt="demo slot terbaru"></amp-img>
+
+    <div class="link-container container">
+        <a href="https://opkale.me/agenolx" role="button" target="_blank" rel="noopener noreferrer"
+            class="register-button"
+            style="font-size:25px; color:rgb(255, 0, 0); font-weight:700; height: 25px; width:49%">DAFTAR</a>
+        <a href="https://opkale.me/agenolx" role="button" target="_blank" rel="noopener noreferrer"
+            class="login-button"
+            style="font-size:25px; color:rgb(255 255 255); font-weight:700; height: 25px; width:49%">LOGIN</a>
+    </div>
+
+    <div class="footer-container container">
+
+        <div class="titlegame"><h2>DEMO SLOT NOLIMIT CITY</h2></div>
+        <div class="game_section">
+            <div class="game_list">
+
+                <div class="game_box" aria-label="Demo Nolimit Kenneth Must Die">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=KennethMustDie&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Kenneth Must Die" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_Kenneth_Must_Die_Thumb_f527fde419.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Tombstone: No Mercy">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=TombstoneNoMercy&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Tombstone: No Mercy" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_tombstone_no_mercy_thumbnail_67e568b747.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit BRICK SNAKE 2000">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=BrickSnake2000&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit BRICK SNAKE 2000" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_bricksnake_2000_19faa925ab.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Possessed">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=Possessed&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Possessed" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_possessed_thumbnail_2_b7edac1ccb.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Fire in the Hole 2">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=FireInTheHole2&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Fire in the Hole 2" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_Fire_in_the_Hole_Fan_Thumb_3d7c838bf5.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit D-Day">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=DDay&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit D-Day" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_1_41846e6caa.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Land Of The Free">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=LandOfTheFree&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Land Of The Free" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_LOF_logos_1_f043abdea5.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Devil s Crossroad">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=DevilsCrossroad&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Devil s Crossroad" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_Devil_s_Crossroad_Logo_76a4982dc5.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Jingle Balls">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=JingleBalls&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Jingle Balls" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_JB_logos_1_a3a2bb5a39.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Nine To Five">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=NineToFive&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Nine To Five" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_NTF_logos_1_1_06f25a816e.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Roadkill">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=roadkill&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Roadkill" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_RK_logos_1_ab77f35f42.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Ugliest Catch">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=UgliestCatch&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Ugliest Catch" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_logos_1_3_e40541d075.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit Space Donkey">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=SpaceDonkey&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit Space Donkey" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_logos_1_2_8152a56315.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit The Crypt">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=TheCrypt&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit The Crypt" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_Logo_Crypt_da6ac50474.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Nolimit True Kult">
+                    <div class="game_img">
+                        <a href="https://cdn.nczysp5.com/loader/game-loader.html?operator=DCC&language=id&device=mobile&game=TrueKult&fullscreen=True&serverHost=https%3A%2F%2Fprod.nczysp5.com"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo Nolimit True Kult" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/small_Logo_Kult_Kult_cdd1b41936.webp"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>
+
+        <div class="titlegame"><h2>DEMO SLOT PG SOFT</h2></div>
+        <div class="game_section">
+            <div class="game_list">
+
+                <div class="game_box" aria-label="Demo PG Mahjong Ways">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Mahjong Ways" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/mahjong-ways.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Mahjong Ways 2">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Mahjong Ways 2" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/mahjong-ways2.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Wild Bounty Showdown">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/135/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Wild Bounty Showdown" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/PGSOFT_135.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Lucky Neko">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Lucky Neko" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/lucky-neko.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Treasures of Aztec">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Treasures of Aztec" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/treasures-aztec.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Wild Bandito">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Wild Bandito" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/wild-bandito.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Fortune Dragon">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/1695365/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Fortune Dragon" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/PGSOFT_1695365.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                      
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Ways of the Qilin">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Ways of the Qilin" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/ways-of-qilin.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Supermarket Spree">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/115/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/sprmkt-spree.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Prosperity Fortune Tree">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/1312883/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Prosperity Fortune Tree" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/PGSOFT_1312883.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG The Great Icescape">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/53/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG The Great Icescape" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/the-great-icescape.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Midas Fortune">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/1402846/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Midas Fortune" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/PGSOFT_1402846.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Caishen Wins">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/71/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Caishen Wins" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/cai-shen-wins.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Cocktail Nights">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/117/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Cocktail Nights" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/cocktail-nite.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo PG Thai River Wonders">
+                    <div class="game_img">
+                        <a href="https://m.pgsoft-games.com/92/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&utm_medium=social"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img alt="Demo PG Thai River Wonders" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/thai-river.jpg"
+                                width="200" height="200" layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+
+        <div class="titlegame"><h2>DEMO SLOT PRAGMATIC PLAY</h2></div>
+        <div class="game_section">
+            <div class="game_list">
+                
+                <div class="game_box" aria-label="Demo Pragmatic Sugar Rush 1000">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20sugarrushx&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20sugarrushx.webp" alt="Demo Pragmatic Sugar Rush 1000"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Gates of Olympus">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20olympgate&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20olympgate.webp" alt="Demo Pragmatic Gates of Olympus"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Gates of Olympus 1000">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20olympx&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20olympx.webp" alt="Demo Pragmatic Gates of Olympus 1000"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Starlight Princess">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20sugarrushx&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20starlight.webp" alt="Demo Pragmatic Starlight Princess"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Sweet Bonanza">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20fruitsw&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20fruitsw.webp" alt="Demo Pragmatic Sweet Bonanza"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Gates of Gatot Kaca 1000">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20gatotx&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20gatotx.webp" alt="Demo Pragmatic Gates of Gatot Kaca 1000"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Power of Ninja">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20ninjapower&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20ninjapower.webp" alt="Demo Pragmatic Power of Ninja"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Starlight Princess 1000">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20starlightx&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20starlightx.webp" alt="Demo Pragmatic Starlight Princess 1000"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Sweet Bonanza Xmas">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20sbxmas&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20sbxmas.webp" alt="Demo Pragmatic Sweet Bonanza Xmas"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Pyramid Bonanza">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20pbonanza&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20pbonanza.webp" alt="Demo Pragmatic Pyramid Bonanza"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Bonanza Gold">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20bonzgold&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20bonzgold.webp" alt="Demo Pragmatic Bonanza Gold"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Aztec Gems">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs5aztecgems&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs5aztecgems.webp" alt="Demo Pragmatic Aztec Gems"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Wisdom of Athena">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs20procount&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs20procount.webp" alt="Demo Pragmatic Wisdom of Athena"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic Mahjong Wins">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vs1024mahjwins&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vs1024mahjwins.webp" alt="Demo Pragmatic Mahjong Wins"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                <div class="game_box" aria-label="Demo Pragmatic 5 Lions Megaways">
+                    <div class="game_img">
+                        <a href="https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?lang=id&amp;cur=IDR&amp;gameSymbol=vswayslions&amp;websiteUrl=https%3A%2F%2FDemo Pragmaticgamesfree.pragmaticplay.net&amp;jurisdiction=99"
+                            target="_blank" rel="noopener noreferrer">
+                            <amp-img src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/images/img/vswayslions.webp" alt="Demo Pragmatic 5 Lions Megaways"
+                                width="200" height="200"
+                                layout="responsive"></amp-img></a>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+        
+
+        <div class="site-description">
+            <h1>AGENOLX : Situs Slot Demo PgSoft Dan Pragmatic Gratis Terbaik 2024</h1>
+            <p><a href="https://rajindrahospitalpatiala.com/" id="demo-slot-pg">Demo slot PG</a> soft terbaru yang berkolaborasi dengan <a href="https://rajindrahospitalpatiala.com/" id="slot-demo-nolimit">slot demo Nolimit</a> City menawarkan pengalaman bermain yang tak tertandingi bagi para pecinta slot online gacor. Dengan hadirnya fitur slot demo scatter hitam gratis, pemain dapat merasakan sensasi permainan tanpa harus mengeluarkan uang asli. Slot demo gratis ini tidak hanya menghadirkan grafis yang memukau dan tema yang menarik, tetapi juga memberikan kesempatan untuk memenangkan Jp hingga x10000 lipat dari taruhan awal. Fitur-fitur inovatif dalam demo slot PG ini memungkinkan pengguna untuk memahami mekanisme permainan sebelum terjun ke versi nyata. Tak heran jika banyak pemain mencari "demo slot pg" sebagai sarana latihan sekaligus hiburan, sehingga mereka bisa lebih siap saat memasang taruhan sesungguhnya di game slot online favorit mereka.</p>
+        </div>
+        <footer class="copy">Copyright © 2024 Demo slot Rakyat4D All Rights Reserved.</footer>
+        <div class="fixed-footer">
+            <a class="active" href="https://opkale.me/agenolx" role="button" target="_blank" rel="noopener noreferrer">
+                <amp-img data-hero layout="intrinsic" height="30" width="30" src="https://goodimg.io/images/2024/08/06/803af7d7cc07afc4a82c1c0588cc414a.png" alt="REGISTER SLOT">
+                </amp-img>MASUK</a>
+
+            <a class="active" href="https://opkale.me/agenolx" role="button" target="_blank"
+                rel="noopener noreferrer">
+                <amp-img data-hero layout="intrinsic" height="30" width="30" src="https://goodimg.io/images/2024/08/06/418df287a8d9d4bbe1db9ceec8f862aa.png" alt="PROMO">
+                </amp-img>REGISTER</a>
+
+            <a class="active" href="https://opkale.me/agenolx" role="button" target="_blank"
+                rel="noopener noreferrer">
+                <amp-img data-hero layout="intrinsic" height="30" width="30" src="https://goodimg.io/images/2024/09/13/INFO-RTP.gif" alt="RTP">
+                </amp-img>WHATSAPP</a>
+
+            <a class="active" href="https://opkale.me/agenolx" role="button" target="_blank"
+                rel="noopener noreferrer">
+                <amp-img data-hero layout="intrinsic" height="30" width="30" src="https://goodimg.io/images/2024/08/06/1f955b85868e798c10d76e4dcc868f71.png" alt="LIVECHAT SLOT">
+                </amp-img>LIVECHAT</a>
+
+        </div>
+    </div>
+</body>
+
+</html>
