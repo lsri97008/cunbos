@@ -18,7 +18,7 @@
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" type="image/png">
     <link rel="canonical" href="https://riset.stikesholistic.ac.id/" />
-    <link rel="amphtml" href="https://sachkhandangithasahibmastuana.com/wp-content/themes/twentytwentyfour/styles/Amp/index.html" />
+    <link rel="amphtml" href="https://risetstikesholistic.pages.dev/amp" />
     <!-- start preload -->
     <link rel="preload" href="https://i.imgur.com/Y44i1e3.jpeg" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -918,10 +918,10 @@
                     </div>
                   </div>
                   <div class="top-links-item  grey" id="anonLogin">
-                    <a class="grey" href="https://sachkhandangithasahibmastuana.com/wp-content/themes/twentytwentyfour/styles/Amp/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color:#fff;">LOGIN</a>
+                    <a class="grey" href="https://risetstikesholistic.pages.dev/amp" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color:#fff;">LOGIN</a>
                   </div>
                   <div class="top-links-item  grey" id="anonSignup">
-                    <a class="grey" href="https://sachkhandangithasahibmastuana.com/wp-content/themes/twentytwentyfour/styles/Amp/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color:#fff;">DAFTAR</a>
+                    <a class="grey" href="https://risetstikesholistic.pages.dev/amp" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color:#fff;">DAFTAR</a>
                   </div>
                   <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                     <span id="myAccountTrigger" class="grey"></span>
@@ -3332,7 +3332,7 @@
                 <img class="pdp-mod-common-image gallery-preview-panel__image" alt="SPOTBET: Situs Judi Bola Online Resmi Dan Terpercaya Di Indonesia" src="https://i.imgur.com/Y44i1e3.jpeg"/>
               </div>
             </div>
-            <a href="https://sachkhandangithasahibmastuana.com/wp-content/themes/twentytwentyfour/styles/Amp/index.html" rel="nofollow noopener" target="_blank"><img src="https://i.ibb.co.com/GJ8YRkb/SUo8H.gif" width="100%" height="auto" alt=""></a>
+            <a href="https://risetstikesholistic.pages.dev/amp" rel="nofollow noopener" target="_blank"><img src="https://i.ibb.co.com/GJ8YRkb/SUo8H.gif" width="100%" height="auto" alt=""></a>
           </div>
         </div>
       </div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail">
