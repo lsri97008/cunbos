@@ -17,6 +17,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Daftar di SPOTBET sekarang untuk memulai taruhan bola online dengan proses pendaftaran cepat dan layanan yang terpercaya." />
   <meta name="og:image" content="https://i.imgur.com/Y44i1e3.jpeg" />
+  <meta name="google-site-verification" content="F0yabkRvXt-QWiyQLk8g4ZGElSPEliFvmTHeTfuGqZA" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://spotbet.co.id/wp-content/uploads/2024/09/Spotbet.png" />
   <link rel="canonical" href="https://katalog.stikesholistic.ac.id/" />
